@@ -1,0 +1,7 @@
+pypdf==5.4.0
+langchain==0.3.22
+chromadb==1.0.0 # Vector storage
+pytest== 8.3.5
+boto3==1.37.27
+langchain_ollama==0.3.0
+langchain-chroma 0.2.2
